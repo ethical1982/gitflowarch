@@ -1,0 +1,10 @@
+1. Feature Branch - Check the updates
+
+2. Develop branch - Check the codes
+
+3. Release Branch - Check the software updates
+
+4. Hotfixes - Check Error bug fixes
+
+5. Master Branches - Main file was attached in master brances
+
